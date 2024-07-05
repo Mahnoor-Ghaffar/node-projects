@@ -1,0 +1,19 @@
+{
+  "name": "student-managment-system-mh-009",
+  "version": "1.0.1",
+  "description": "Student managment system with TypeScript,Inquirer and Node.js",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahnoor-ghaffar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
