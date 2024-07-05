@@ -1,0 +1,22 @@
+{
+  "name": "bank-app-mh-09",
+  "version": "1.0.1",
+  "description": "bank app with typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahnoor-Ghaffar",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.3.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  }
+}
