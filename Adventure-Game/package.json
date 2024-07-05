@@ -1,0 +1,20 @@
+{
+  "name": "adventure-game-mh-09",
+  "version": "1.0.1",
+  "description": "Adventure Game with TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahnoor-Ghaffar",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
